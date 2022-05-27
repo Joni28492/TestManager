@@ -1,0 +1,407 @@
+let dirtyText = `1.- ¿Cómo se denomina el Título I de la Constitución Española de 1978?
+a) De los derechos y deberes fundamentales.
+b) De los derechos y deberes.
+c) De los derechos y deberes de los ciudadanos.
+d) De los principios, derechos y deberes de los ciudadanos.
+2.- ¿Cuál es la opción correcta?
+a) El plazo máximo de la detención preventiva son 48 horas.
+b) La detención preventiva no podrá durar más del tiempo estrictamente necesario para la
+realización de las averiguaciones tendentes al esclarecimiento de los hechos.
+c) a y b son correctas.
+d) Ninguna es correcta.
+3.- ¿Cuántos Títulos, además del preliminar, tiene la Constitución?:
+a) Diez Títulos.
+b) Once Títulos.
+c) Nueve Títulos.
+d) Catorce Títulos
+4.- Los valores superiores del ordenamiento jurídico propugnados desde nuestra Constitución son:
+a) La libertad, la justicia, la igualdad y el pluralismo político.
+b) La libertad, la justicia y la libre competencia.
+c) La libertad, la igualdad y el pluralismo político y sindical.
+d) La libertad sindical y el pluralismo político.5.- ¿Qué título dentro de la estructura de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y
+Cuerpos de Seguridad establece las funciones de las diferentes Policías Locales?
+a) Título IV.
+b) Título II.
+c) Título III.
+d) Título V.
+6.- ¿Cuál de las siguientes, no es una de las funciones establecidas para los cuerpos de Policía Local
+en el artículo 53 de Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad?
+a) Proteger a las Autoridades de las Corporaciones Locales, y vigilancia o custodia de sus
+edificios e instalaciones.
+b) La vigilancia del tráfico, tránsito y transporte en las vías públicas interurbanas.
+c) Cooperar en la resolución de los conflictos privados cuando sean requeridos para ello.
+d) Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de
+actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad.
+7.- Dentro de los deberes establecidos en el art. 27 de la Ley del Principado de Asturias 2/2007, de
+23 de marzo, de Coordinación de las Policías Locales, no se encuentra.
+a) Intervenir en evitación de cualquier tipo de delito o falta
+b) La vigilancia e inspección del cumplimiento de la normativa en materia de juego.
+c) Velar por el cumplimiento de las ordenanzas municipales, bandos y demás
+disposiciones municipales dentro del ámbito de su competencia.
+d) Obedecer y ejecutar las órdenes que reciban de sus superiores jerárquicos, siempre que
+no constituyan ilícito penal o fueran contrarias a derecho.
+8.- Los miembros de los Cuerpos de Policía Local deben sujetarse en su actuación profesional, a los
+principios de:
+a) Jerarquía y subordinación.
+b) Coordinación y jerarquía.
+c) Subordinación y cooperación.
+d) Cooperación y coordinación.
+9.- ¿Cuál de las siguientes conductas constituye una infracción grave de la Ley Orgánica 4/2015, de
+30 de marzo, de protección de la seguridad ciudadana?
+a) Las faltas de respeto y consideración cuyo destinatario sea un miembro de las Fuerzas y
+Cuerpos de Seguridad en el ejercicio de sus funciones de protección de la seguridad, cuando
+estas conductas no sean constitutivas de infracción penal.
+b) Dejar sueltos o en condiciones de causar daños animales feroces o dañinos, así como
+abandonar animales domésticos en condiciones en que pueda peligrar su vida.
+c) El consumo de bebidas alcohólicas en lugares, vías, establecimientos o transportes
+públicos cuando perturbe gravemente la tranquilidad ciudadana.
+d) Ninguna de las respuestas anteriores es correcta.10.- Según el artículo 20 de la Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad
+ciudadana ¿En qué supuestos los registros corporales externos podrán ser realizados por agentes
+del mismo sexo que la persona sobre la que se practique esta diligencia?
+a) En ningún caso.
+b) En situaciones de urgencia por grave riesgo para los agentes.
+c) A criterio de los agentes actuantes.
+d) Si se hace en lugar reservado y fuera de la vista de terceros.
+11.- ¿Cuál de las siguientes conductas es constitutiva de delito contra la seguridad vial?
+a) Conducir un ciclomotor con temeridad manifiesta poniendo en concreto peligro la vida o la
+integridad de las personas.
+b) Conducir un vehículo a motor, en todo caso, con una tasa de alcohol en aire espirado de
+0,25 miligramos por litro.
+c) El que condujere un vehículo de motor o ciclomotor en los casos de pérdida de vigencia del
+permiso o licencia por pérdida total de los puntos asignados legalmente.
+d) Las respuestas a y c son correctas.
+12.- Negarse a someterse a las pruebas de alcoholemia legalmente establecidas:
+a) Es una infracción administrativa.
+b) Es un delito que supone la detención de su autor.
+c) Supone la pérdida de 4 puntos.
+d) Ninguna de las respuestas es correcta.
+13.- No constituye un delito contra la seguridad vial tipificado en el artículo 384.
+a) Conducir un vehículo a motor sin haber obtenido nunca permiso o licencia de conducción.
+b) Conducir un vehículo a motor o ciclomotor con un permiso o licencia caducados.
+c) Conducir un ciclomotor tras haber sido privado cautelar o definitivamente de la licencia
+por decisión judicial.
+d) Conducir un vehículo de motor en caso de pérdida de vigencia del permiso por pérdida
+total de los puntos asignados legalmente.
+14.- Según el artículo 37.13 de la Ley Orgánica 4/2015, de 30 de marzo, de protección de la
+seguridad ciudadana, constituyen una infracción leve.
+a) Causar daños o el deslucimiento de bienes muebles o inmuebles de uso o servicio público,
+cuando no constituyan infracción penal.
+b) Causar daños o el deslucimiento de bienes muebles o inmuebles privados en la vía pública,
+cuando no constituyan infracción penal.
+c) Causar daños o el deslucimiento de bienes muebles o inmuebles en todo caso.
+d) Las respuestas a y b son correctas.15.- Conforme a lo dispuesto en la Ley Orgánica 1/2004 de Medidas de Protección Integral contra
+la violencia de Género:
+a) Es un asunto que compete exclusivamente a las Fuerzas de Seguridad del Estado.
+b) Las Policías Locales cooperarán únicamente cuando existan unidades especializadas.
+c) Las Policías Locales solo colaborarán cuando las víctimas residan en la zona urbana.
+d) Las Policías Locales cooperarán en la protección de las víctimas.
+16.- La Ley sobre el tráfico, circulación de Vehículos a Motor y Seguridad Vial es aprobada por:
+a) Real Decreto Legislativo 6/2015, de 20 de octubre.
+b) Real Decreto Ley 6/2015, de 30 de octubre.
+c) Real Decreto Legislativo 6/2016, de 30 de octubre.
+d) Real Decreto Legislativo 6/2015, de 30 de octubre.
+17.- La responsabilidad de la señalización de las obras que se realicen en las vías objeto de la
+circulación corresponderá a:
+a) Al titular de la vía.
+b) Al Ministerio de Fomento.
+c) Al Ayuntamiento en cuyo término municipal se realicen.
+d) A los organismos que las realicen o las empresas adjudicatarias de las mismas.
+18.- El uso del casco para los conductores y ocupantes de bicicletas y ciclos en general es
+obligatorio.
+a) Para los menores de 16 años.
+b) Para todos los conductores y ocupantes en vías interurbanas.
+c) Sólo en vías urbanas.
+d) Las respuestas a y b son correctas.
+19.- No hacer uso del cinturón de seguridad o de sistemas de retención infantil, será infracción:
+a) Leve.
+b) Grave.
+c) Muy grave.
+d) Grave o muy grave
+20.- ¿Cuándo está permitida la circulación de bicicletas por el Paseo del Cantábrico de Salinas?
+a) Nunca.
+b) Durante todo el año cuando hace mal tiempo y no hay peatones.
+c) Cuando se oculta el sol y hasta el amanecer.
+d) En el invierno.
+21.- Cuál de las siguientes acciones constituye una infracción leve de la Ordenanza Municipal de
+Tráfico de Castrillón y del Reglamento General de Circulación?
+a) Estacionar impidiendo la visibilidad de la señalización a otros usuarios.
+b) Estacionar en zona señalizada para carga y descarga.
+c) Estacionar en un carril destinado al uso exclusivo del transporte público urbano.
+d) Estacionar en zona señalizada para uso exclusivo de personas con discapacidad.22.- Según la ley del Principado de Asturias 13/2002, de Tenencia, Protección y Derechos de los
+Animales, ¿dónde no puede estar suelto un perro potencialmente peligroso?
+a) En las vías públicas.
+b) En los espacios públicos.
+c) En las zonas comunes de las Comunidades de Vecinos.
+d) Todas las anteriores respuestas son correctas.
+23.- ¿En qué caso podrá un español de origen ser privado de su nacionalidad?
+a) Únicamente en caso de resolución judicial motivada.
+b) En casos de delitos de terrorismo.
+c) En los casos de acciones contra la integridad del Estado y sus autoridades.
+d) En ningún caso.
+24.-. Los conductores de los vehículos prioritarios no podrán:
+a) Dejar de cumplir las normas de tráfico.
+b) Desobedecer las órdenes y señales de los agentes.
+c) Dar marcha atrás o media vuelta en autovías.
+d) Penetrar en la mediana o en los pasos transversales a ésta.
+25.- Según la Ley del Principado de Asturias, 13/2002, de 23 de diciembre, de Tenencia, Protección
+y Derechos de los Animales, una sola persona mayor de edad podrá llevar en la vía y espacios
+públicos y en las zonas comunes de las comunidades de vecinos.
+a) Un solo perro potencialmente peligroso.
+b) Si es mayor de 21 años y no tiene antecedentes penales, hasta dos perros potencialmente
+peligrosos.
+c) Hasta dos perros potencialmente peligrosos si van sujetos con correa o cadena no
+extensible y bozal.
+d) Ninguna de las respuestas anteriores es correcta.
+26.-Conforme a la vigente ordenanza reguladora de la venta ambulante en el concejo de Castrillón,
+¿qué horario se establece para las llamadas “ventas estacionales”?
+a) De 10 de la mañana a 9 de la noche.
+b) De 9 de la mañana a 9 de la noche.
+c) De 9 de la mañana a 10 de la noche.
+d) Ninguna de las respuestas anteriores es correcta
+27.- La Ordenanza Reguladora del uso de áreas destinadas al estacionamiento y pernocta de
+autocaravanas y vehículos vivienda en el municipio de Castrillón, permite el estacionamiento en el
+área especial de descanso a:
+a) Autocaravanas.
+b) Caravanas o vehículos vivienda.
+c) Turismos
+d) Las respuestas a y b son correctas.28.-Queda prohibido el acceso y la presencia de animales domésticos a las playas del Concejo de
+Castrillón:
+a) Entre el 1 de mayo y el 15 de septiembre.
+b) Entre el 15 de mayo y el 1 de octubre.
+c) Entre el 1 de mayo y el 1 de octubre.
+d) Entre el 15 de mayo y el 15 de septiembre.
+29.- Conforme a lo establecido en la Ordenanza de Uso y Aprovechamiento de las playas de
+Castrillón, es una infracción grave:
+a) Lavarse en el mar o en la playa utilizando jabón.
+b) Bañarse fuera de las zonas de baño.
+c) Proferir insultos o faltar al respeto a los miembros del Servicio de Salvamento.
+d) La evacuación fisiológica en el mar o en la playa.
+30.- Según el art. 14 de la Ordenanza Municipal de Playas:
+a) Con carácter general, se prohíbe la pesca marítima de recreo a menos de 250 m. de la zona
+de baños en época de baños.
+b) Se prohíbe la pesca marítima de recreo a menos de 100 m. de la zona de baños.
+c) Se prohíbe la pesca marítima de recreo submarina a menos de 300 m. de las zonas de
+baño.
+d) Se prohíbe la pesca marítima de recreo desde embarcación a menos de 300 m. de las
+zonas de baño.
+31.- Castrillón cuenta con varios espacios declarados monumentos naturales, entre los que se
+encuentran:
+a) El Playón de Bayas y la Sierra de Pulide.
+b) La Isla de La Deva y el Peñón de Raíces.
+c) La playa de El Espartal y el Museo de Anclas de Salinas.
+d) La Playa de El Espartal y la Isla de La Deva.
+32.- ¿En qué artículo de la Ordenanza de Medio Ambiente del Ayuntamiento de Castrillón viene
+recogido “El propietario o poseedor de los perros deberá tenerlos en las vías públicas bajo su
+control en todo momento por medio de correa para evitar daños o molestias”?
+a) Art. 217.
+b) Art. 218.
+c) Art. 219.
+d) Ninguna de las respuestas anteriores es correcta.
+33.- Constituye una falta grave de la Ordenanza reguladora de la venta ambulante en el Concejo de
+Castrillón.
+a) No exhibir la necesaria autorización en la forma legal o reglamentariamente establecida.
+b) La instalación de puestos de venta ambulante sin autorización.
+c) La venta de productos distintos a los autorizados.
+d) Uso de altavoces, salvo autorización especial.34.- Según la Ordenanza Municipal de Limpieza del Ayuntamiento de Castrillón, no se permite
+regar macetas en la vía pública, desde ventanas, balcones o terrazas, excepto:
+a) Entre las 07:00 y las 09:00 horas.
+b) Entre las 08:00 y las 10:00 horas.
+c) Entre las 07:00 y las 10:00 horas.
+d) Entre las 08:00 y las 09:00 horas.
+35.- Las infracciones a la Ordenanza de uso y aprovechamiento de las playas de Castrillón
+prescribirán:
+a) Las infracciones muy graves prescribirán a los tres años; las graves a los dos años y por
+infracciones leves al año.
+b) Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las
+leves a los seis meses.
+c) Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves
+a los tres meses.
+d) Ninguna de las respuestas anteriores es correcta.
+36.- De las siguientes vías ¿cuál no pasa por el Concejo de Castrillón?:
+a) AS-320.
+b) CT-5.
+c) N-643.
+d) AS-230.
+37.- ¿En qué calle de la localidad de Salinas, se encuentra la estatua del Doctor José Mª Pérez?
+a) Calle Dr. Pérez.
+b) Calle Clarín.
+c) No se encuentra en Salinas.
+d) Calle Dr. López Otín.
+38.- ¿Cuál de los siguientes ríos desemboca en la playa de Bahínas?
+a) Río Raíces.
+b) Río Ferrota.
+c) Río Fontaniella.
+d) Río Pillanu.
+39.- El Castillo de Gauzón, fortaleza de los Reyes de Asturias, se ubicaba en un promontorio natural
+denominado:
+a) Peñón de Salinas.
+b) Peñón de Raíces.
+c) Peñón de Gauzón.
+d) Peñón de Laspra.40.- ¿Qué carretera de ámbito local une las localidades de El Pradón y Navalón?
+a) CT-1.
+b) CT-6.
+c) CT-4
+d) Una de las localidades no pertenece a Castrillón.
+41.- La circulación de vehículos autorizados a circular por las zonas peatonales deberá respetar las
+siguientes normas:
+a) La velocidad máxima de circulación será de treinta kilómetros hora.
+b) Los vehículos saldrán a través de las puertas que estén libres.
+c) Los conductores darán prioridad de paso a los peatones.
+d) Todas las respuestas anteriores son correctas.
+42.- ¿Cuál de las siguientes playas no se ubica en el término municipal de Castrillón?
+a) Playón del Sablón.
+b) Playa de Los Quebrantos.
+c) Playa de Arnáu.
+d) Playa de La Llada.
+43.- ¿Cuál de los siguientes Concejos no limita con el término municipal de Castrillón?
+a) Soto del Barco.
+b) Avilés.
+c) Illas
+d) Pravia.
+44.- ¿Cuál de las siguientes calles no se ubica en la localidad de Piedrasblancas?
+a) Calle Las Murias.
+b) Calle Ramiro I.
+c) Calle Castillo de Gauzón.
+d) Calle Príncipe de Asturias.
+45.- A efectos de la Ordenanza Municipal de Venta Ambulante de Castrillón, se entiende por
+reincidencia:
+a) La comisión en el término de un año de una falta que tenga la misma calificación que le
+motivó la sanción.
+b) La comisión en el término de un año de más de una falta que tenga la misma calificación
+que le motivó la sanción.
+c) La comisión en el término de un año de más de 2 faltas que tenga la misma calificación que
+le motivó la sanción.
+d) Ninguna de las respuestas anteriores es correcta.
+46.- ¿Cuál de las siguientes calles no se ubica en la localidad de Salinas?
+a) Calle Pablo Laloux.
+b) Calle Alcalde Luis Treillard.
+c) Calle Luis Hauzeur.
+d) Calle Alfonso I.47.- ¿Cuál de las siguientes infracciones previstas en la vigente Ordenanza Reguladora del uso de
+áreas destinadas al estacionamiento y pernocta de autocaravanas y vehículos vivienda en el
+municipio de Castrillón, no viene considerada como grave?
+a) No respetar las instrucciones e indicaciones dadas por las Fuerzas y Cuerpos de Seguridad.
+b) El vertido de aguas grises y negras o residuos en cualquier lugar no habilitado al efecto.
+c) No identificar verazmente al conductor responsable de la infracción, cuando el titular del
+vehículo sea debidamente requerido para ello.
+d) No respetar las delimitaciones del espacio señalizado en el suelo para el estacionamiento,
+dificultando o impidiendo la correcta circulación por la zona.
+48.- La presencia de perros en las zonas de los parques públicos habilitadas con juegos infantiles
+está prohibida, con carácter general:
+a) Desde el 1 de Mayo al 30 de Septiembre.
+b) Durante todo el año.
+c) Desde el 15 de Mayo al 15 de Septiembre.
+d) No existe prohibición al respecto.
+49.- La capital del Concejo de Castrillón se ubica en la localidad de:
+a) Piedrasblancas.
+b) Salinas.
+c) Raíces Nuevo/La Fundición.
+d) El Cotu Carcéu.
+50.- En materia de violencia de género. ¿Quién es el sujeto pasivo del delito?
+a) Quien sea esposa del autor.
+b) La mujer que esté relacionada con el autor por análoga relación de afectividad.
+c) La mujer que haya estado relacionada con el autor por análoga relación de afectividad.
+d) Todas las respuestas anteriores son correctas.
+PREGUNTAS RESERVA:
+Las siguientes preguntas reserva, se deberán contestar, pero solamente se puntuarán, de forma
+correlativa, en el caso de que se anule alguna o algunas preguntas del examen:
+1.- ¿Qué artículos componen el Título I de la Constitución Española de 1978?
+a) Del 14 al 28.
+b) Del 9 al 55.
+c) Del 10 al 55.
+d) Del 11 al 55.2.- Según el artículo 30 de la Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad
+ciudadana, constituye una infracción grave.
+a) La realización o incitación a la realización de actos que atenten contra la libertad e
+indemnidad sexual, o ejecutar actos de exhibición obscena, cuando no constituya infracción
+penal.
+b) La proyección de haces de luz, mediante cualquier tipo de dispositivo, sobre miembros de
+las Fuerzas y Cuerpos de Seguridad para impedir o dificultar el ejercicio de sus funciones.
+c) El consumo o la tenencia ilícitos de drogas tóxicas, estupefacientes o sustancias
+psicotrópicas, aunque no estuvieran destinadas al tráfico, en lugares, vías, establecimientos
+públicos o transportes colectivos, así como el abandono de los instrumentos u otros efectos
+empleados para ello en los citados lugares.
+d) La negativa a entregar la documentación personal legalmente exigida cuando se hubiese
+acordado su retirada o retención.
+3.- Relaciona las siguientes calles con la población en la que se encuentran, Alcalde Luis Treillard,
+Alcalde José Fernandín, Juan de Austria:
+a) Piedrasblancas, Salinas, Raíces Nuevo.
+b) Salinas, Piedrasblancas, Raíces Nuevo.
+c) Raíces Nuevo, Salinas, Piedrasblancas.
+d) Ninguna de las anteriores es correcta.
+4.- En las autorizaciones municipales para la venta ambulante deberá constar:
+a) Datos de identificación de la persona titular.
+b) Productos autorizados para la venta.
+c) Lugar o lugares donde se puede ejercer la actividad.
+d) Todas las respuestas anteriores son ciertas.
+5.- ¿Cuál de las siguientes categorías, está incluida en la escala técnica de los Cuerpos de Policía
+Local establecidos en el art. 17 de la Ley del Principado de Asturias 2/2007, de 23 de marzo, de
+Coordinación de las Policías Locales?
+a) Subinspector.
+b) Intendente.
+c) Inspector.
+d) Las respuestas b y c son correctas.`;
+
+dirtyText = dirtyText.replace("\n", "");
+
+const listadoCorrectas = [
+  "a",
+  "b",
+  "a",
+  "a",
+  "d",
+  "b",
+  "b",
+  "a",
+  "d",
+  "b",
+  "d",
+  "b",
+  "b",
+  "d",
+  "d",
+  "d",
+  "d",
+  "d",
+  "b",
+  "a",
+  "b",
+  "d",
+  "d",
+  "b",
+  "a",
+  "c",
+  "a",
+  "d",
+  "c",
+  "a",
+  "d",
+  "c",
+  "c",
+  "a",
+  "b",
+  "d",
+  "d",
+  "c",
+  "b",
+  "b",
+  "c",
+  "b",
+  "d",
+  "d",
+  "a",
+  "d",
+  "c",
+  "b",
+  "a",
+  "d",
+  //reserva
+  "c",
+  "c",
+  "b",
+  "d",
+  "d",
+];
+
+module.exports = {
+  dirtyText,
+  listadoCorrectas,
+};
