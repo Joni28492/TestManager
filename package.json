@@ -2,12 +2,15 @@
   "name": "TestManager",
   "version": "1.0.0",
   "description": "Esta es una herramienta para formatear los examanes tipo test, y convertirlos a un archivo json, aun esta en proceso pero facilita el trabajo de traspasarlo y tener que tabular y formatear el texto para que se vea correcto.",
-  "main": "examData.js",
+  "main": "testTabulator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node testTabulator.js"
+    "start": "node main.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tesseract.js": "^2.1.5"
+  }
 }

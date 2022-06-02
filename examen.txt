@@ -1,4 +1,4 @@
-let dirtyText = `1.- ¿Cómo se denomina el Título I de la Constitución Española de 1978?
+1.- ¿Cómo se denomina el Título I de la Constitución Española de 1978?
 a) De los derechos y deberes fundamentales.
 b) De los derechos y deberes.
 c) De los derechos y deberes de los ciudadanos.
@@ -18,7 +18,7 @@ d) Catorce Títulos
 a) La libertad, la justicia, la igualdad y el pluralismo político.
 b) La libertad, la justicia y la libre competencia.
 c) La libertad, la igualdad y el pluralismo político y sindical.
-d) La libertad sindical y el pluralismo político.5.- ¿Qué título dentro de la estructura de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y
+d) La libertad sindical y el pluralismo político. 5.- ¿Qué título dentro de la estructura de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y
 Cuerpos de Seguridad establece las funciones de las diferentes Policías Locales?
 a) Título IV.
 b) Título II.
@@ -338,70 +338,4 @@ Coordinación de las Policías Locales?
 a) Subinspector.
 b) Intendente.
 c) Inspector.
-d) Las respuestas b y c son correctas.`;
-
-dirtyText = dirtyText.replace("\n", "");
-
-const listadoCorrectas = [
-  "a",
-  "b",
-  "a",
-  "a",
-  "d",
-  "b",
-  "b",
-  "a",
-  "d",
-  "b",
-  "d",
-  "b",
-  "b",
-  "d",
-  "d",
-  "d",
-  "d",
-  "d",
-  "b",
-  "a",
-  "b",
-  "d",
-  "d",
-  "b",
-  "a",
-  "c",
-  "a",
-  "d",
-  "c",
-  "a",
-  "d",
-  "c",
-  "c",
-  "a",
-  "b",
-  "d",
-  "d",
-  "c",
-  "b",
-  "b",
-  "c",
-  "b",
-  "d",
-  "d",
-  "a",
-  "d",
-  "c",
-  "b",
-  "a",
-  "d",
-  //reserva
-  "c",
-  "c",
-  "b",
-  "d",
-  "d",
-];
-
-module.exports = {
-  dirtyText,
-  listadoCorrectas,
-};
+d) Las respuestas b y c son correctas.
